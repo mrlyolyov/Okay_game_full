@@ -54,3 +54,6 @@ Winning notification by completed sequences and the same value melds. Every oppo
 Winning notification by completed sequences and the same value melds and putting back joker as the last tile. Every opponent loses 4 points.
 Winning notification by completed 7 pairs of tiles in the same value and color. Every opponent loses 4 points.
 
+If all tiles from the central stack will be used, and no one notifies winning, then no one gets negative points.
+
+The game ends when one or more players descend to zero or less points. In this situation, the two players with best high score win.
