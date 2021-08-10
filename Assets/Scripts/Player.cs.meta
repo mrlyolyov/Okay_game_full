@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c4a7d13025d75924d99b8eedbb630143
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 2941588413640191027, guid: 5408cfac58fa7ed4aaa89dacaacacce6,
+      type: 3}
+  - deckTiles: {instanceID: 0}
+  - playerOne: {instanceID: 0}
+  - playerTwo: {instanceID: 0}
+  - dice: {instanceID: 0}
+  - playerSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
